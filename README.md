@@ -1,3 +1,9 @@
+Frontend Tech:
+Angular 
+Rx JS
+NGRX (Redux)
+BootStrap
+
 Backend Public API used:
 https://conduit.productionready.io/api
 
