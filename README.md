@@ -1,4 +1,6 @@
-Note: Example of Implementing Advanced Angular Features and File Structures 
+Note: Example of Implementing Advanced Angular Features and File Structures with Register component 
+
+Routing Link 'http://localhost:4000/register'
 
 Frontend Tech:
 Angular 
