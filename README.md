@@ -1,3 +1,5 @@
+Note: Example of Implementing Advanced Angular Features and File Structures 
+
 Frontend Tech:
 Angular 
 Rx JS
