@@ -3,10 +3,10 @@ Note: Example of Implementing Advanced Angular Features and File Structures with
 Routing Link 'http://localhost:4000/register'
 
 Frontend Tech:
-Angular 
-Rx JS
-NGRX (Redux)
-BootStrap
+Angular,
+RxJS,
+NGRX(Redux),
+Bootstrap
 
 Backend Public API used:
 https://conduit.productionready.io/api
